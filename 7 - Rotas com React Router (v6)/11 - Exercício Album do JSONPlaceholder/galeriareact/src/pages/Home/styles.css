@@ -1,0 +1,10 @@
+.box {
+  margin: 30px;
+  border: 2px solid black;
+  padding: 30px;
+}
+
+.links {
+  color: #000;
+  text-decoration: none;
+}
